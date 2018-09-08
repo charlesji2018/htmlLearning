@@ -1,2 +1,2 @@
-# html basics
+# HTML Basics
 Notes from learning html
