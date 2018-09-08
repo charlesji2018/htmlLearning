@@ -1,2 +1,2 @@
 # htmlLearning
-html notes
+This is notes from learning html
